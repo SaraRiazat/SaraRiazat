@@ -1,7 +1,7 @@
 <!-- 🌸 Sara Riazat - GitHub Profile README -->
 
-# 🌸 Hi, I'm Sara Riazat
-### Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
+<h1 align="center"><span style="color:#000000">🌸 Hi, I'm Sara Riazat</span></h1>
+<h3 align="center"><span style="color:#000000">Frontend Developer | React • TypeScript • Next.js • Tailwind CSS</span></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Developer-ffc6d9?style=for-the-badge&logoColor=white" alt="Frontend Developer"/>
@@ -11,18 +11,22 @@
 
 ---
 
-## ✨ About Me
+<h2><span style="color:#000000">✨ About Me</span></h2>
 
-💻 Passionate **Frontend Developer** focused on creating elegant, high-performance, and responsive user interfaces.  
-🌸 I enjoy bringing designs to life with **React, TypeScript, and Tailwind CSS**.  
-🚀 Currently exploring **UI architecture, state management patterns, and performance optimization**.  
+<p><span style="color:#000000">
+💻 Passionate <strong>Frontend Developer</strong> focused on creating elegant, high-performance, and responsive user interfaces.<br/>
+🌸 I enjoy bringing designs to life with <strong>React, TypeScript, and Tailwind CSS</strong>.<br/>
+🚀 Currently exploring <strong>UI architecture, state management patterns, and performance optimization</strong>.<br/>
 🎨 I love crafting beautiful digital experiences with minimalism and pastel aesthetics.
+</span></p>
 
-📫 Reach me at: [riazatsara23@gmail.com](mailto:riazatsara23@gmail.com)
+<p><span style="color:#000000">
+📫 Reach me at: <strong><a href="mailto:riazatsara23@gmail.com" style="color:#000000;">riazatsara23@gmail.com</a></strong>
+</span></p>
 
 ---
 
-## 💖 Tech Stack
+<h2><span style="color:#000000">💖 Tech Stack</span></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,git,github,vscode" alt="Tech Stack"/>
@@ -30,32 +34,23 @@
 
 ---
 
-## 🌸 GitHub Stats
+<h2><span style="color:#000000">🌸 GitHub Stats</span></h2>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SaraRiazat&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f6&title_color=ff69b4&icon_color=ff69b4" 
+    src="https://github-readme-stats.vercel.app/api?username=SaraRiazat&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f6&text_color=000000&title_color=ff69b4&icon_color=ff69b4" 
     height="165" 
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=SaraRiazat&theme=rose_pine&hide_border=true&background=fff0f6&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" 
-    height="165" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraRiazat&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f6&title_color=ff69b4" 
-    height="150" 
-    alt="Top Languages"
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraRiazat&layout=compact&hide_border=true&bg_color=ffeef5&title_color=ff69b4&text_color=000000" 
+  alt="Top Languages"
+/>
 </p>
 
 ---
 
-## 🌷 Let's Connect
+<h2><span style="color:#000000">🌷 Let's Connect</span></h2>
 
 <p align="center">
   <a href="mailto:riazatsara23@gmail.com">
@@ -68,6 +63,6 @@
 
 ---
 
-<p align="center">
-  <sub>Made with 💕 by **Sara Riazat**</sub>
-</p>
+<p align="center"><span style="color:#000000">
+  <sub>Made with 💕 by <strong>Sara Riazat</strong></sub>
+</span></p>
