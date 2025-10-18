@@ -4,9 +4,9 @@
 <h3 align="center">Frontend Developer | React • TypeScript • Next.js • Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-pastel%20pink?style=for-the-badge&color=ffc6d9" alt="Frontend Developer"/>
-  <img src="https://img.shields.io/badge/React-Expert-ffb6c1?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-Developer-ffb6c1?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend%20Developer-ffc6d9?style=for-the-badge" alt="Frontend Developer"/>
+  <img src="https://img.shields.io/badge/React-ffb6c1?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-ffb6c1?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### 💖 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,git,github,vscode" alt="Tech Stack"/>
 </p>
 
 ---
