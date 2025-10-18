@@ -1,28 +1,28 @@
 <!-- 🌸 Sara Riazat - GitHub Profile README -->
 
-<h1 align="center">🌸 Hi, I'm Sara Riazat</h1>
-<h3 align="center">Frontend Developer | React • TypeScript • Next.js • Tailwind CSS</h3>
+# 🌸 Hi, I'm Sara Riazat
+### Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-ffc6d9?style=for-the-badge" alt="Frontend Developer"/>
+  <img src="https://img.shields.io/badge/Frontend%20Developer-ffc6d9?style=for-the-badge&logoColor=white" alt="Frontend Developer"/>
   <img src="https://img.shields.io/badge/React-ffb6c1?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-ffb6c1?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
 ---
 
-### ✨ About Me
+## ✨ About Me
 
 💻 Passionate **Frontend Developer** focused on creating elegant, high-performance, and responsive user interfaces.  
 🌸 I enjoy bringing designs to life with **React, TypeScript, and Tailwind CSS**.  
 🚀 Currently exploring **UI architecture, state management patterns, and performance optimization**.  
 🎨 I love crafting beautiful digital experiences with minimalism and pastel aesthetics.
 
-📫 Reach me at: **[riazatsara23@gmail.com](mailto:riazatsara23@gmail.com)**  
+📫 Reach me at: [riazatsara23@gmail.com](mailto:riazatsara23@gmail.com)
 
 ---
 
-### 💖 Tech Stack
+## 💖 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,git,github,vscode" alt="Tech Stack"/>
@@ -30,7 +30,7 @@
 
 ---
 
-### 🌸 GitHub Stats
+## 🌸 GitHub Stats
 
 <p align="center">
   <img 
@@ -55,19 +55,19 @@
 
 ---
 
-### 🌷 Let's Connect
+## 🌷 Let's Connect
 
 <p align="center">
   <a href="mailto:riazatsara23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffc6d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FFC6D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/sarariazat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Made with 💕 by <strong>Sara Riazat</strong></sub>
+  <sub>Made with 💕 by **Sara Riazat**</sub>
 </p>
